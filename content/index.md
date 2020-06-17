@@ -13,9 +13,13 @@ Summer 2020 <br/>
 Welcome to S109A, Introduction to Data Science. This course is the first half of a one-year introduction to data science. The course focuses on the analysis of messy, real life data to perform predictions using statistical and machine learning methods.The material of the course is divided into 3 modules. Each module will integrate the five key facets of an investigation using data:
 <br/>
     1. data collection -data wrangling, cleaning, and sampling to get a suitable data set;
+<br/>
     2. data management -accessing data quickly and reliably;
+<br/>
     3. exploratory data analysis -generating hypotheses and building intuition;
+<br/>
     4. prediction, statistical learning, and inference; and
+<br/>
     5. communication -summarizing results through visualization, stories, and interpretable summaries.
 <br/>
 The list of topics includes data exploration and visualization, k-NN, linear regression, LASSO and Ridge, Cross-validation, logistic regression, discriminant analysis, decision trees, random forests, boosting, stacking, neural networks, principal components analysis, imputation, and experimental design (AB testing).
